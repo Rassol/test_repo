@@ -10,3 +10,5 @@ newqsadaf
 sdgsdfg
 
 asdfasdf
+
+v 1.2 new bugs
