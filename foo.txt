@@ -2,3 +2,4 @@
 213102-3
 new foo
 new foo 1
+foo foo
